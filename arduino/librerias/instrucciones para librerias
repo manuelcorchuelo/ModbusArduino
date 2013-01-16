@@ -1,0 +1,1 @@
+Para que arduino pueda utilizar sus librerias debes crear una carpeta llamada "libraries" dentro de la carpeta "sketchbook" de arduino y copiarlas dentro.
